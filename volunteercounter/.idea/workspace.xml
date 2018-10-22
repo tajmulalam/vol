@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae273b5b-4e58-41cd-98d0-b590fded601d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-242186364">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="14" />
+          <entry key="html" value="392" />
+          <entry key="py" value="1152" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="392" />
+          <entry key="Python" value="1166" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="3" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Python" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="3" />
+          <entry key="js" value="1" />
+          <entry key="py" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-860699178">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="51" />
+          <entry key="png" value="1" />
+          <entry key="py" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="51" />
+          <entry key="Image" value="1" />
+          <entry key="Python" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="4723" />
+          <entry key="py" value="3578" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="4723" />
+          <entry key="Python" value="3578" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-244948801">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2063820250">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="4" />
+          <entry key="py" value="20" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="341" />
+          <entry key="py" value="679" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="341" />
+          <entry key="Python" value="679" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounter/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="70" column="103" selection-start-line="70" selection-start-column="103" selection-end-line="70" selection-end-column="103" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="127" column="59" selection-start-line="127" selection-start-column="59" selection-end-line="127" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/templates/qrresults.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="687">
+              <caret line="109" column="46" selection-start-line="109" selection-start-column="46" selection-end-line="109" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/templates/base_home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Logout</find>
+      <find>jpg</find>
+      <find>order</find>
+      <find>datasetlist</find>
+      <find>deleteDataset</find>
+      <find>avatar avatar-sm rounded-circle</find>
+      <find>team-4-800x800.jpg</find>
+      <find>order_by</find>
+      <find>predicate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>volunteercounterapp</replace>
+      <replace>volunteercounter</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/predicate/predicate/urls.py" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/base.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/index.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/utils.py" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/register.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/addnewchallenge.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/editchallenge.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/addnewdataset.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/adddataset.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/challenge.py" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/challenge.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/submitprediction.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templatetags/__init__.py" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templatetags/app_filters.py" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/prediction.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/login.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/aboutus.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/contactus.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/urls.py" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/dashboard.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/challengeDetails.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/challengelist.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/datasetlist.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/predictionlist.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/base_home.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/base_user.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/templates/base_admin.html" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/admin.py" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/models.py" />
+        <option value="$PROJECT_DIR$/predicate/predicateapp/views.py" />
+        <option value="$PROJECT_DIR$/predicate/predicate/settings.py" />
+        <option value="$PROJECT_DIR$/VolunteerCounter/manage.py" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounter/settings.py" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounter/urls.py" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounter/wsgi.py" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounterapp/apps.py" />
+        <option value="$PROJECT_DIR$/volunteercounter/manage.py" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounterapp/templatetags/app_filters.py" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounterapp/templates/login.html" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounterapp/templates/base_home.html" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounterapp/templates/base_admin.html" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounterapp/templates/qrresults.html" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounterapp/urls.py" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounterapp/models.py" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounterapp/utils.py" />
+        <option value="$PROJECT_DIR$/volunteercounter/volunteercounterapp/views.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1299" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="volunteercounter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="volunteercounter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="volunteercounter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="volunteercounter" type="462c0819:PsiDirectoryNode" />
+              <item name="volunteercounter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="volunteercounter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="volunteercounter" type="462c0819:PsiDirectoryNode" />
+              <item name="volunteercounter" type="462c0819:PsiDirectoryNode" />
+              <item name="volunteercounterapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="volunteercounter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="volunteercounter" type="462c0819:PsiDirectoryNode" />
+              <item name="volunteercounter" type="462c0819:PsiDirectoryNode" />
+              <item name="volunteercounterapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="volunteercounter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="volunteercounter" type="462c0819:PsiDirectoryNode" />
+              <item name="volunteercounter" type="462c0819:PsiDirectoryNode" />
+              <item name="volunteercounterapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templatetags" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/predicate/predicateapp/templates" />
+      <recent name="$PROJECT_DIR$/predicate/predicateapp/static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae273b5b-4e58-41cd-98d0-b590fded601d" name="Default Changelist" comment="" />
+      <created>1539546579672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539546579672</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27214685" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3284553" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4980048" weight="0.42857143" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039905" side_tool="true" weight="0.3282313" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49960095" weight="0.3282313" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/addnewchallenge.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/submitprediction.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templatetags/__init__.py" />
+    <entry file="file://$USER_HOME$/PycharmProjects/Predicate/venv/lib/python3.6/site-packages/django/template/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="568" selection-start-line="568" selection-end-line="568" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Predicate/venv/lib/python3.6/site-packages/django/template/backends/django.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Predicate/venv/lib/python3.6/site-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="964" selection-start-line="964" selection-end-line="964" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/adddataset.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/addnewdataset.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templatetags/app_filters.py" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/prediction.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/urls.py" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/login.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/aboutus.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/contactus.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/challengelist.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/datasetlist.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/predictionlist.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/dashboard.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/challengeDetails.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/base_user.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/base_home.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/templates/base_admin.html" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/admin.py" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/models.py" />
+    <entry file="file://$USER_HOME$/PycharmProjects/Predicate/venv/lib/python3.6/site-packages/django/core/mail/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="284" column="8" selection-start-line="284" selection-start-column="8" selection-end-line="284" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predicate/predicateapp/views.py" />
+    <entry file="file://$PROJECT_DIR$/predicate/predicate/settings.py" />
+    <entry file="file://$PROJECT_DIR$/VolunteerCounter/volunteercounter/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/VolunteerCounter/volunteercounter/settings.py" />
+    <entry file="file://$PROJECT_DIR$/VolunteerCounter/manage.py" />
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounter/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounter/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="69" selection-start-line="5" selection-start-column="69" selection-end-line="5" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/templatetags/app_filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounter/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="127" column="59" selection-start-line="127" selection-start-column="59" selection-end-line="127" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/templates/base_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/templates/base_admin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="70" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/templates/qrresults.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="109" column="46" selection-start-line="109" selection-start-column="46" selection-end-line="109" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Predicate/venv/lib/python3.6/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="484" selection-start-line="484" selection-end-line="484" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteercounter/volunteercounterapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="70" column="103" selection-start-line="70" selection-start-column="103" selection-end-line="70" selection-end-column="103" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

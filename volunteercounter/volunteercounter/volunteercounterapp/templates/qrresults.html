@@ -1,0 +1,130 @@
+{% extends "base_admin.html" %}
+{% block content %}
+<style>
+::-webkit-scrollbar {
+    width: 15px;
+    background:lightgray;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,255,1);
+    border-radius: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 15px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+    background:#5e72e4;
+}
+</style>
+<!-- Page content -->
+<div class="container-fluid mt--7">
+    <div class="row">
+        <div class="col-xl-12 mb-5 mb-xl-0">
+            <div class="card ">
+                <div id="errorMsg"></div>
+                <div class="card-header bg-transparent">
+                    <div class="row align-items-center">
+                        <h2>Qr Result List</h2>
+                    </div>
+                </div>
+                <form class="ml-2 mr-2">
+
+                    <div class="row mt-4">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <div class="input-group mb-4">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text"><i class="ni ni-calendar-grid-58"></i></span>
+                                    </div>
+                                    <input id="frmDate" required data-date-format="yyyy-mm-dd" class="form-control datepicker" placeholder="From Date" type="text">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <div class="input-group mb-4">
+                                    <div class="input-group-prepend">
+                                        <span class="input-group-text"><i class="ni ni-calendar-grid-58"></i></span>
+                                    </div>
+                                    <input id="toDate" required data-date-format="yyyy-mm-dd" class="form-control datepicker" placeholder="To Date" type="text">
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="form-group">
+
+                                <div class="input-group mb-4">
+                                    <button class="btn btn-icon btn-3 btn-primary" id="btnSubmit" type="submit">
+                                        <span class="btn-inner--icon"><i class="fas fa-search"></i></span>
+                                        <span class="btn-inner--text">Submit</span>
+                                    </button>
+                                    <div>
+                                        <img src="/static/assets/img/loading.gif" width="50" style="display: none;"
+                                     id="loading">
+                                    </div>  
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+{% block js %}
+<script type="text/javascript">
+    function showNotification(message,challengeID){
+      var alertHtml="<div class='alert alert-danger'><button type='button' aria-hidden='true' class='close' data-dismiss='alert'><i class='ni ni-fat-remove'></i></button><span><b>"+message+"</b></span></div>";
+      $("#errorMsg").html(alertHtml);
+    }
+    $("#btnSubmit").click(function(event){
+        event.preventDefault();
+        var frmDate=$("#frmDate").val();
+        var toDate=$("#toDate").val();
+        $("#loading").show(); //show loading
+        //$("#avatar").hide(); //show loading
+        $('#btnSubmit').prop('disabled', true);
+        $.ajax({
+            url : "/qrresults",
+            type: "POST",
+            data: JSON.stringify(
+                {frmDate: frmDate,toDate:toDate}
+            ),
+            contentType: "application/json; charset=utf-8",
+            dataType   : "json",
+            error:function(error){
+                showNotification("Error occurred while processing the request.")
+                $("#loading").hide(); //show loading
+                //$("#avatar").show(); //show loading
+                $('#btnSubmit').prop('disabled', false);
+            },
+            success: function(data){
+                console.log(data);
+                if (data.status=='200') {
+                    console.log(data.qrscanData);
+                    if (data.qrscanData.length>0) {
+                        for (var i = 0; i < data.qrscanData.length; i++) {
+                            console.log(data.qrscanData[i].fullName);
+                            console.log(data.qrscanData[i].email);
+                        }
+                    }else{
+                        showNotification("No Data available");
+
+                    }
+                }else{
+                    showNotification(data.msg);
+                }
+                $("#loading").hide(); //show loading
+                $('#btnSubmit').prop('disabled', false);
+
+            }
+        });
+    })
+</script>
+{% endblock %}
